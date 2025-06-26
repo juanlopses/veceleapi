@@ -1,0 +1,11 @@
+{
+  "name": "yt-media-api",
+  "version": "1.0.0",
+  "description": "API para obtener enlaces MP3 y MP4",
+  "scripts": {
+    "dev": "vercel dev"
+  },
+  "dependencies": {
+    "axios": "^1.6.8"
+  }
+}
